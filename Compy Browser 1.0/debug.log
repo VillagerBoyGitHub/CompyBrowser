@@ -1,0 +1,169 @@
+[0816/154044.939:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/154100.060:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://ogs.google.com/widget/app/so?eom=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=538&hl=it (0)
+[0816/154133.509:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://ogs.google.com/widget/callout?prid=19028915&pgid=19027681&puid=f9de7c1a1d63c13e&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=it (0)
+[0816/154141.320:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://www.google.com/uviewer?q=fr&origin=https%3A%2F%2Fwww.google.com&ptzd=1 (0)
+[0816/154146.487:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=it&hl=it (0)
+[0816/154147.022:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/154148.194:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/154148.198:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154148.198:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154148.198:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154148.199:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154148.238:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154148.238:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154148.238:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154148.238:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154151.208:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/154151.698:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/154152.816:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0816/154152.870:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154152.870:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154152.870:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154152.870:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154152.874:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154152.875:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154152.875:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154152.875:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154155.983:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/154156.564:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620 (0)
+[0816/154157.550:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-293300293&timestamp=1660657317343 (0)
+[0816/154157.675:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.google.com/_/bscframe (0)
+[0816/154214.680:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.google.com/_/back?backstep=2 (0)
+[0816/154214.877:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin (0)
+[0816/154215.659:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1038742880&timestamp=1660657335427 (0)
+[0816/154215.709:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://accounts.google.com/_/bscframe (0)
+[0816/154231.247:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://ogs.google.com/widget/callout?prid=19022645&pgid=1151720448&puid=723e1a40d4cc6173&cce=1&dc=1&origin=https%3A%2F%2Fsupport.google.com&cn=callout&pid=117&spid=117&hl=en (0)
+[0816/154248.877:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://ogs.google.com/widget/callout?prid=19022645&pgid=1151720448&puid=723e1a40d4cc6173&cce=1&dc=1&origin=https%3A%2F%2Fsupport.google.com&cn=callout&pid=117&spid=117&hl=en (0)
+[0816/154259.046:ERROR:browser_process_sub_thread.cc(221)] Waited 24 ms for network service
+[0816/154356.273:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/154413.992:INFO:CONSOLE(3)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (3)
+[0816/154414.882:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://tls-ech-experiment.cloudflareresearch.com/.well-known/probe' from origin 'https://vboyweb.ml' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://vboyweb.ml/ (0)
+[0816/154414.885:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://tls-ech-experiment-c.cloudflareresearch.com/.well-known/probe' from origin 'https://vboyweb.ml' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://vboyweb.ml/ (0)
+[0816/154415.780:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.781:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.781:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.782:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.783:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.783:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.784:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.785:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.785:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.785:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.787:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.788:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154415.789:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a3d5c7d5a43 (1)
+[0816/154419.465:INFO:CONSOLE(3)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (3)
+[0816/154420.678:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.679:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.679:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.679:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.680:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.680:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.680:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.680:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.680:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.681:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.681:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.681:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154420.682:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a659cc55a43 (1)
+[0816/154426.137:INFO:CONSOLE(3)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (3)
+[0816/154427.073:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.073:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.073:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.073:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.074:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.074:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.074:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154427.075:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://vboyweb.ml/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=73ba9a9129c95a43 (1)
+[0816/154505.144:ERROR:browser_process_sub_thread.cc(221)] Waited 106 ms for network service
+[0816/154635.192:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/154649.857:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://ogs.google.com/widget/callout?prid=19028915&pgid=19027681&puid=f9de7c1a1d63c13e&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=it (0)
+[0816/154658.349:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=it&hl=it (0)
+[0816/154658.855:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/154700.045:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154700.045:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154700.045:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/154700.045:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154700.045:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154700.050:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154700.050:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154700.050:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154700.051:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154703.054:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/154703.774:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/154704.838:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0816/154704.887:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154704.888:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154704.888:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154704.888:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/154704.891:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154704.891:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154704.891:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154704.891:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/154707.940:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/154718.633:ERROR:browser_process_sub_thread.cc(221)] Waited 30 ms for network service
+[0816/155027.989:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/155032.495:ERROR:browser_process_sub_thread.cc(221)] Waited 90 ms for network service
+[0816/155101.231:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/155242.943:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/155256.146:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+", source: https://www.google.com/uviewer?q=jjjjj&origin=https%3A%2F%2Fwww.google.com&ptzd=1 (0)
+[0816/155259.763:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/155259.804:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155259.804:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155304.525:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=4HF1XEOwhG8 (0)
+[0816/155305.314:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/155306.619:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155306.620:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155306.620:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155306.620:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155306.649:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155306.649:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155306.649:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155306.650:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155309.734:INFO:CONSOLE(0)] "The resource https://r3---sn-8vq54voxpu-cgpe.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155309.736:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155309.737:INFO:CONSOLE(0)] "The resource https://r3---sn-8vq54voxpu-cgpe.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155310.109:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 67
+[0816/155310.922:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/155311.885:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=4HF1XEOwhG8 (0)
+[0816/155312.031:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155312.038:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155312.040:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155312.040:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0816/155312.084:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155312.085:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155312.085:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155312.085:ERROR:render_media_log.cc(27)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0816/155315.801:INFO:CONSOLE(0)] "The resource https://r3---sn-8vq54voxpu-cgpe.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155315.801:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155315.813:INFO:CONSOLE(0)] "The resource https://r3---sn-8vq54voxpu-cgpe.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0816/155316.066:ERROR:browser_process_sub_thread.cc(221)] Waited 40 ms for network service
+[0816/155316.123:ERROR:broker_win.cc(137)] Error sending sync broker message: È in corso la chiusura della pipe. (0xE8)
+[0816/155316.126:ERROR:command_buffer_proxy_impl.cc(94)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0816/163424.121:ERROR:gl_surface_egl.cc(544)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0816/163425.479:ERROR:browser_process_sub_thread.cc(221)] Waited 24 ms for network service
